@@ -1,1 +1,1 @@
-# -censor-the--censor
+# Removes annoying propagand form Youtube and Twitter.
